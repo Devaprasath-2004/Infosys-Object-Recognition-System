@@ -61,5 +61,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact 📬
 
-For questions or support, feel free to reach out via [springboardmentor301@gmail.com](mailto:email@example.com).
+For questions or support, feel free to reach out via [devaprasathpaulraj@gmail.com](mailto:devaprasathpaulraj@example.com).
 
